@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-https://imgur.com/a/PNx2L2t
+https://i.imgur.com/tkeWZbs.gif
 
 ### Required Features
 
